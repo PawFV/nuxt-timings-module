@@ -1,6 +1,6 @@
 import type { Plugin } from '@nuxt/types'
 
-import { prettyTimer } from 'nuxt-timings/dist/runtime'
+import { prettyTimer } from 'bravado-nuxt-timings/dist/runtime'
 
 const plugin: string = '<%= options.plugin %>'
 const mode = '<%= options.mode %>' as 'start' | 'end'
