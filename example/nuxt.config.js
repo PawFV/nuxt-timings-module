@@ -1,7 +1,7 @@
 export default {
   alias: {
-    'nuxt-timings/dist/runtime': require.resolve('../src/runtime'),
-    'nuxt-timings': require.resolve('../src')
+    'bravado-nuxt-timings/dist/runtime': require.resolve('../src/runtime'),
+    'bravado-nuxt-timings': require.resolve('../src')
   },
   modules: [
     '../src',
