@@ -1,6 +1,6 @@
 {
-  "name": "nuxt-timings",
-  "version": "0.1.2",
+  "name": "bravado-nuxt-timings",
+  "version": "0.1.3",
   "description": "Timings integration for Nuxt",
   "keywords": [
     "nuxt",
@@ -9,7 +9,7 @@
     "timings",
     "performance"
   ],
-  "repository": "danielroe/nuxt-timings-module",
+  "repository": "PawFV/nuxt-timings-module",
   "license": "MIT",
   "exports": {
     ".": "./dist/index.js",

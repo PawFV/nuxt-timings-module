@@ -1,6 +1,6 @@
 [![nuxt-timings](https://timings.nuxtjs.org/preview.png)](https://timings.nuxtjs.org)
 
-# nuxt-timings
+# bravado-nuxt-timings
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
@@ -9,6 +9,8 @@
 [![License][license-src]][license-href]
 
 > Full visibility into your Nuxt render time for optimising performance
+
+This is a fork with fixes of the [official repository](https://github.com/danielroe/nuxt-timings-module).
 
 ## Features
 
