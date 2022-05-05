@@ -19,18 +19,18 @@ This is a fork with fixes of the [official repository](https://github.com/daniel
 
 ## Quick setup
 
-1. Add `bravado-nuxt-timings` dependency to your project
+1. Add `@bravadoco/nuxt-timings` dependency to your project
 
 ```bash
-yarn add bravado-nuxt-timings # or npm install nuxt-timings
+yarn add @bravadoco/nuxt-timings # or npm install nuxt-timings
 ```
 
-2. Add `nuxt-timings` to the `buildModules` section of `nuxt.config.js`
+2. Add `@bravadoco/nuxt-timings` to the `buildModules` section of `nuxt.config.js`
 
 ```js
 {
   buildModules: [
-    'nuxt-timings',
+    '@bravadoco/nuxt-timings',
   ],
   timings: {
     // default value
