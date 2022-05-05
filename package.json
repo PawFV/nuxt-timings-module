@@ -1,5 +1,5 @@
 {
-  "name": "bravado-nuxt-timings",
+  "name": "@bravadoco/nuxt-timings",
   "version": "0.1.32",
   "description": "Timings integration for Nuxt",
   "keywords": [

@@ -19,11 +19,11 @@
       "jest"
     ],
     "paths": {
-      "bravado-nuxt-timings": ["./src/index.ts"],
-      "bravado-nuxt-timings/dist": [
+      "@bravadoco/nuxt-timings": ["./src/index.ts"],
+      "@bravadoco/nuxt-timings/dist": [
         "./src/*"
       ],
-      "bravado-nuxt-timings/*": [
+      "@bravadoco/nuxt-timings/*": [
         "./src/*"
       ]
     }
